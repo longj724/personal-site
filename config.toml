@@ -1,9 +1,10 @@
-baseURL = "http://example.org/"
+baseURL = "https://longj724.github.io/"
 languageCode = "en-us"
 title = "Home"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
+publishDir = "longj724.github.io"
 
 paginate = 20
 canonifyurls = true
