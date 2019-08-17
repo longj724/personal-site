@@ -1,0 +1,140 @@
+/* Nav Bar */
+.container {
+  max-width: none;
+}
+
+.navigation {
+  border-bottom: 1px solid rgba(0,0,0,0.15);
+}
+
+.navigation a {
+  position: relative;
+  color: black;
+  text-decoration: none;
+  font-family: 'Fira Mono', monospace;
+  text-transform: uppercase;
+}
+
+.navigation a:before {
+  position: absolute;
+  bottom: -4px;
+  content: "";
+  display: inline-block;
+  width: 100%;
+  height: 2px;
+  background: #f30034;
+  -webkit-transform: scaleX(0);
+  transform: scaleX(0);
+  -webkit-transition: all 0.3s ease-in-out 0s;
+  transition: all 0.3s ease-in-out 0s;
+  visibility: hidden;
+}
+
+.navigation a:hover:before {
+  -webkit-transform: scaleX(1);
+  transform: scaleX(1);
+  color: red;
+  visibility: visible;
+}
+
+.navigation a:hover {
+  color: black;
+  text-decoration: none;
+}
+
+/* .navigation a:before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 2px;
+  bottom: 0;
+  left: 0;
+  margin-bottom: 10px;
+  background-color: #f30034;
+  visibility: hidden;
+  -webkit-transform: scaleX(0);
+  transform: scaleX(0);
+  -webkit-transition: all 0.4s ease-in-out 0s;
+  transition: all 0.4s ease-in-out 0s;
+}
+
+.navigation a:hover:before {
+  visibility: visible;
+  -webkit-transform: scaleX(1);
+  transform: scaleX(1);
+}
+
+.navigation a:hover {
+  text-decoration: none;
+  color: black;
+} */
+
+/* .navigation a {
+  font-family: 'Fira Mono', monospace;
+  text-transform: uppercase;
+} */
+
+/* Titles */
+.content a {
+  position: relative;
+  color: black;
+  text-decoration: none;
+  font-family: 'Fira Mono', monospace;
+  text-transform: uppercase;
+}
+
+.content a:before {
+  position: absolute;
+  bottom: -4px;
+  content: "";
+  display: inline-block;
+  width: 100%;
+  height: 2px;
+  background: #f30034;
+  -webkit-transform: scaleX(0);
+  transform: scaleX(0);
+  -webkit-transition: all 0.3s ease-in-out 0s;
+  transition: all 0.3s ease-in-out 0s;
+  visibility: hidden;
+}
+
+.content a:hover:before {
+  -webkit-transform: scaleX(1);
+  transform: scaleX(1);
+  color: red;
+  visibility: visible;
+}
+
+.list ul li .title:hover {
+  color: black;
+  text-decoration: none;
+}
+
+
+.list ul li .title {
+  font-family: 'Fira Mono', monospace;
+}
+
+/* Content across all pages */
+body {
+  font-family: 'Fira Mono', monospace;
+  font-weight: 400;
+}
+
+h1, h2 {
+  font-family: 'Fira Mono', monospace;
+  font-weight: bold;
+}
+
+/* Icons */
+.twitter {
+  color: #00ACEE;
+}
+
+.linkedin {
+  color: #0077B5;
+}
+
+.github {
+  color: #6e5494;
+}
