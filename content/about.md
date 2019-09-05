@@ -4,11 +4,11 @@ date: 2019-08-15T12:54:53-04:00
 draft: true
 ---
 
-Hi, I'm Justin, and I am a sophomore at the University of Michigan. I currently live in Ann Arbor, but grew up and went to highschool in a suburb of Cleveland, Ohio. I am studying computer science, and am also interested in entrepreneurship and psychology. Outside of school I am very passionate aboute running, and endurance sports in general. I also enjoy reading, listening to podcasts, and watching Cleveland sports. 
+Hi, I'm Justin, and I am a sophomore at the University of Michigan. I currently live in Ann Arbor, but grew up and went to highschool in a suburb of Cleveland, Ohio. I am studying computer science, and am also interested in entrepreneurship and psychology. Outside of school I am very passionate aboute running, and endurance sports. I also enjoy reading, listening to podcasts, and watching Cleveland sports. 
 
 # What I am Up to Right Now
 
-I am currently enjoying my last few weeks of summer break before heading back to school. I just returned from a two week trip to China. While culturally China varies greatly from the U.S., after talking to a variety of locals I realized many of them have the same motivations and desires as Americans.
+I just returned to school and am about to begin the fall semester. I spent the first half of my summer at school taking classes. I also spent two weeks traveling throughout China.
 
 As it relates to programming I have been learning Javascript and NodeJS. I am also refreshing myself on C++ and learning about data structures and algorithms as I prepare myself for a class I will be taking on that subject this fall.
 
