@@ -8,9 +8,10 @@ Hi, I'm Justin, and I am a sophomore at the University of Michigan. I currently 
 
 # What I am Up to Right Now
 
-I just returned to school and am about to begin the fall semester. I spent the first half of my summer at school taking classes. I also spent two weeks traveling throughout China.
+My focus is on my academics as it is the middle of the fall semester. I am also looking for internship opportunities as a software engineer for the
+summer of 2020.
 
-As it relates to programming I have been learning Javascript and NodeJS. I am also refreshing myself on C++ and learning about data structures and algorithms as I prepare myself for a class I will be taking on that subject this fall.
+As it relates to programming, this semester, I joined the University of Michigan Mars Rover Team. I am gaining experience collaborating with other developers and learning how to make changes to large existing code bases safely. More specifically, I am working on constructing a new state machine for the Rover that will allow it to complete tasks added to the 2020 University Mars Rover Challenge.
 
 # About This Site
 This site was made using the static site generator Hugo and is hosted on GitHub Pages. I used the Hugo Coder theme, adding a few modifications of my own.
