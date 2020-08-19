@@ -1,6 +1,6 @@
 ---
-title: "Libary Notifier - React, Flask, sqlite"
-date: "2020-08-14"
+title: "Library Notifier - React, Flask, sqlite"
+date: "2020-08-15"
 description: "Library Notifier"
 draft: false
 ---
